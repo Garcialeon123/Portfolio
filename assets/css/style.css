@@ -1,0 +1,16 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+   /* img{
+    width:45%;
+    height:25%;
+  } */
+  
+  #boxing-gloves{
+    width:45%;
+    height:25%;
+    align-items:center;
+    justify-content:left;
+  
+  }
