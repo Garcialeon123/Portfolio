@@ -1,11 +1,4 @@
-html, body {
-    height: 100%;
-    width: 100%;
-  }
-   /* img{
-    width:45%;
-    height:25%;
-  } */
+
   
   #boxing-gloves{
     width:45%;
@@ -14,3 +7,18 @@ html, body {
     justify-content:left;
   
   }
+
+  .homepage{
+    background-color: peru;
+    border-style: solid;
+    border: brown;
+    background: gray;
+  }
+
+
+
+   
+  #h3-title{
+    border:solid;
+    color:rgb(80, 55, 19);
+}
